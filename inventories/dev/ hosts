@@ -1,0 +1,10 @@
+[all]
+<<<<<<< HEAD:inventories/dev/hosts
+ 172.31.51.178
+ 172.31.60.203
+ 172.31.62.22
+=======
+172.31.51.178
+172.31.60.203
+172.31.62.22
+>>>>>>> 18eba8c1a8c079b79b53bb5a3dfbd781bda75ce0:inventories/dev/ hosts
