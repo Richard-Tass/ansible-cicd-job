@@ -7,7 +7,7 @@ pipeline {
     }
      
     stages {
-      stage('checkout') {
+      stage("checkout") {
            steps {
              
                 git branch: 'main', url: 'https://github.com/Richard-Tass/ansible-cicd-job.git'
